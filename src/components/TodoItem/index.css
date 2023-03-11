@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.li-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.para {
+  color: black;
+  font-size: 25px;
+  font-family: 'Roboto';
+  padding-left: 55px;
+}
+.del-btn {
+  color: red;
+  border: 1px solid red;
+  background-color: white;
+  border-radius: 10px;
+  height: 35px;
+  width: 100px;
+  margin-right: 55px;
+  align-self: center;
+}
